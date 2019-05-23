@@ -1,4 +1,4 @@
-package com.threads.examples.practice5;
+package com.threads.examples.practice1;
 
 public class ThreadLaunch {
     public static void main(String[] args) throws InterruptedException {
